@@ -1,0 +1,312 @@
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/100.jpg 539,192,608,296,2 621,205,683,296,4 685,212,749,303,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/102.jpg 537,192,612,296,2 622,206,682,296,4 713,216,752,299,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/11.jpg 568,200,612,284,1 634,197,685,290,7 687,209,748,302,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/12.jpg 565,198,612,286,1 631,200,682,292,7 704,206,752,298,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/14.jpg 571,198,613,286,1 632,196,684,292,7 687,211,750,303,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/15.jpg 569,198,614,288,1 615,203,682,297,8 688,207,752,306,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/16.jpg 567,202,613,289,1 615,203,683,297,8 714,217,755,298,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/17.jpg 563,199,609,291,1 612,206,682,297,8 685,205,754,304,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/18.jpg 568,203,613,287,1 617,202,682,297,8 692,208,750,304,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/19.jpg 568,204,609,289,1 612,205,682,295,8 691,215,750,295,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2.jpg 568,200,612,289,1 615,204,683,296,6 691,209,750,303,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/20.jpg 569,200,609,287,1 616,204,680,294,8 688,207,748,304,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/21.jpg 567,203,613,288,1 613,199,682,298,8 685,213,744,302,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/22.jpg 571,204,608,286,1 615,203,681,297,8 689,212,749,299,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/23.jpg 568,202,614,286,1 618,202,682,292,8 691,213,749,303,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/24.jpg 569,199,609,295,1 619,199,681,296,9 684,209,750,300,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/25.jpg 571,205,612,286,1 619,199,682,298,9 716,217,748,297,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/26.jpg 569,202,615,283,1 617,200,682,298,9 684,205,752,304,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/3.jpg 569,196,610,289,1 615,199,677,299,6 687,207,744,303,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/30.jpg 569,205,609,289,1 621,202,679,300,9 683,204,750,306,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/32.jpg 574,205,612,284,1 616,200,680,295,9 687,212,749,300,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/34.jpg 539,197,610,298,2 616,199,679,297,0 682,211,749,304,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/35.jpg 537,195,608,290,2 614,203,685,300,0 713,221,754,299,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/36.jpg 535,194,609,289,2 614,194,682,296,0 688,209,751,303,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/37.jpg 541,192,609,291,2 614,198,680,297,0 693,204,751,306,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/38.jpg 538,194,608,292,2 615,203,682,295,0 693,215,755,300,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/39.jpg 537,195,609,295,2 613,204,682,298,0 690,209,748,302,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/4.jpg 571,202,610,287,1 616,203,681,296,6 684,209,752,303,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/40.jpg 542,194,609,291,2 614,202,680,294,0 687,203,747,303,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/406.jpg 582,222,628,289,2 643,230,676,286,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/41.jpg 540,195,607,292,2 616,205,683,296,0 689,209,749,305,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/412.jpg 585,224,627,289,2 632,229,675,290,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/413.jpg 586,224,627,290,2 635,230,675,290,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/415.jpg 586,225,627,288,3 631,229,674,291,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/416.jpg 588,224,629,288,3 648,232,680,285,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/417.jpg 588,225,629,288,3 633,227,675,290,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/419.jpg 588,222,628,291,3 635,226,676,288,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/420.jpg 588,225,627,286,3 632,227,676,290,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/421.jpg 587,223,628,290,3 630,226,671,290,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/422.jpg 587,224,632,290,3 645,227,675,288,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/423.jpg 588,223,629,289,3 635,228,675,290,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/425.jpg 589,226,632,284,4 647,234,679,285,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/426.jpg 590,227,631,286,4 634,229,675,290,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/428.jpg 588,221,631,285,4 637,230,675,291,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/429.jpg 587,228,632,283,4 646,230,676,288,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/43.jpg 539,191,612,298,2 614,202,683,300,0 692,208,751,308,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/431.jpg 588,230,630,283,4 636,230,675,289,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/432.jpg 587,225,627,289,5 647,232,679,286,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/433.jpg 586,222,625,287,5 634,227,674,290,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/434.jpg 587,226,627,287,5 636,228,675,286,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/435.jpg 588,224,624,288,5 635,227,671,290,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/438.jpg 587,226,626,289,5 633,229,674,290,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/439.jpg 585,226,625,289,6 648,232,679,285,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/441.jpg 587,227,625,286,6 636,232,675,287,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/442.jpg 583,226,624,285,6 633,228,671,288,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/443.jpg 586,223,625,287,6 644,227,677,285,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/445.jpg 584,223,623,287,6 634,228,672,290,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/446.jpg 596,221,631,290,7 647,230,675,288,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/447.jpg 595,222,629,282,7 636,230,674,289,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/448.jpg 595,222,628,285,7 638,229,674,290,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/449.jpg 595,222,627,290,7 637,230,673,291,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/45.jpg 543,194,609,291,2 646,214,680,288,1 685,209,751,302,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/450.jpg 597,222,627,285,7 640,226,675,287,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/451.jpg 593,222,627,285,7 633,229,673,289,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/453.jpg 583,223,629,289,8 648,235,676,286,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/455.jpg 585,226,627,287,8 636,230,676,286,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/456.jpg 587,226,627,287,8 637,227,672,293,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/457.jpg 584,223,627,287,8 641,225,677,292,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/459.jpg 585,225,627,286,8 635,229,673,290,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/460.jpg 591,225,627,290,9 650,230,679,289,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/461.jpg 586,227,630,288,9 636,230,674,294,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/462.jpg 587,226,627,290,9 634,229,674,287,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/463.jpg 587,228,629,290,9 635,230,671,289,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/464.jpg 587,227,627,289,9 645,224,675,288,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/466.jpg 587,225,628,292,9 636,226,675,292,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/468.jpg 558,227,582,282,1 585,222,627,289,0 632,230,672,290,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/469.jpg 559,230,583,278,1 588,226,626,288,0 637,227,673,292,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/470.jpg 556,224,579,283,1 584,228,627,286,0 637,227,675,290,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/471.jpg 556,228,586,285,1 586,223,629,290,0 632,228,673,290,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/472.jpg 555,225,582,282,1 587,224,628,286,0 643,221,675,290,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/473.jpg 557,224,582,282,1 586,225,629,287,0 634,227,677,294,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/474.jpg 559,225,580,280,1 606,226,627,290,1 632,230,674,293,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/475.jpg 558,228,582,279,1 603,229,629,284,1 635,228,675,292,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/476.jpg 560,227,580,288,1 603,230,631,287,1 635,228,675,294,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/477.jpg 556,227,582,281,1 607,230,627,285,1 637,230,674,288,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/478.jpg 558,222,581,282,1 603,230,630,284,1 634,224,671,294,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/479.jpg 557,226,583,285,1 602,230,628,287,1 640,225,675,290,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/480.jpg 555,222,582,285,1 604,223,629,290,1 636,227,676,294,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/481.jpg 558,222,581,285,1 587,222,628,290,2 633,228,674,290,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/482.jpg 559,226,582,285,1 588,226,627,289,2 646,226,677,286,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/483.jpg 553,226,583,284,1 587,222,629,290,2 635,227,674,294,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/484.jpg 559,226,583,286,1 587,226,627,289,2 637,228,675,290,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/485.jpg 558,225,583,282,1 590,228,628,290,2 637,227,673,292,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/486.jpg 562,226,582,282,1 585,224,627,290,2 635,229,671,290,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/487.jpg 558,223,580,288,1 586,223,627,291,2 635,228,673,290,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/488.jpg 559,226,582,282,1 585,226,627,288,2 636,230,675,293,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/489.jpg 553,226,581,283,1 587,229,628,289,3 634,229,675,292,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/49.jpg 538,190,608,294,2 641,208,681,297,1 693,209,747,303,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/490.jpg 559,226,583,282,1 591,222,627,290,3 631,227,675,294,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/491.jpg 559,228,583,284,1 591,225,627,290,3 638,226,675,294,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/492.jpg 560,226,583,287,1 591,227,629,287,3 636,229,671,290,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/493.jpg 553,226,583,280,1 591,224,627,288,3 634,227,671,293,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/494.jpg 555,224,583,288,1 590,225,629,290,3 641,227,675,289,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/495.jpg 553,225,584,285,1 591,225,627,291,3 633,226,675,293,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/496.jpg 559,227,585,284,1 592,226,630,285,4 635,231,674,289,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/498.jpg 551,223,581,282,1 590,226,630,286,4 636,226,673,291,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/499.jpg 558,226,584,282,1 591,227,630,288,4 637,230,674,288,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/5.jpg 564,199,606,283,1 614,204,681,299,6 690,206,750,302,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/50.jpg 538,199,609,295,2 647,212,682,291,1 687,211,746,303,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/500.jpg 555,224,579,286,1 591,228,628,289,4 638,229,674,292,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/501.jpg 555,226,583,282,1 591,225,628,287,4 643,223,675,294,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/502.jpg 556,223,580,278,1 591,222,629,286,4 634,226,675,290,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/503.jpg 559,226,583,286,1 591,223,629,284,4 636,227,673,291,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/504.jpg 557,226,579,285,1 589,227,625,290,5 633,229,674,289,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/505.jpg 556,226,579,282,1 587,222,627,288,5 650,230,675,289,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/507.jpg 555,226,582,279,1 591,224,628,287,5 639,227,673,289,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/508.jpg 558,228,583,281,1 590,222,629,290,5 635,229,671,293,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/509.jpg 556,225,578,282,1 588,225,628,285,5 633,227,673,290,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/51.jpg 538,190,607,295,2 641,209,682,292,1 688,214,752,305,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/510.jpg 557,222,580,288,1 589,223,625,291,5 647,228,673,286,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/511.jpg 559,223,583,282,1 591,225,625,287,5 631,223,675,291,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/512.jpg 559,226,583,282,1 588,224,624,287,6 629,230,675,294,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/514.jpg 559,227,584,283,1 587,227,627,287,6 633,228,674,290,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/515.jpg 557,224,580,284,1 589,224,625,288,6 634,229,675,290,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/516.jpg 559,228,583,282,1 587,225,627,289,6 636,225,671,291,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/517.jpg 558,229,583,282,1 590,227,627,288,6 633,227,674,290,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/519.jpg 559,224,583,286,1 586,226,627,287,6 635,226,675,294,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/520.jpg 557,228,583,284,1 587,221,625,290,6 635,228,675,290,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/521.jpg 557,225,583,281,1 595,226,629,286,7 647,232,677,290,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/522.jpg 556,227,585,283,1 596,226,628,283,7 633,226,674,292,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/523.jpg 554,226,583,284,1 599,222,628,286,7 636,227,674,291,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/525.jpg 555,224,584,283,1 596,222,627,285,7 634,225,672,294,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/526.jpg 555,226,582,286,1 598,222,629,286,7 632,227,672,291,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/528.jpg 557,225,583,288,1 595,220,631,288,7 634,226,679,290,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/53.jpg 539,194,608,289,2 614,202,677,296,2 685,208,748,299,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/530.jpg 556,222,582,283,1 586,222,631,288,8 651,228,681,286,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/531.jpg 560,227,583,282,1 589,226,629,286,8 634,229,675,286,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/532.jpg 557,227,582,284,1 586,224,629,290,8 635,226,675,292,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/533.jpg 557,225,583,282,1 587,226,629,289,8 636,230,678,286,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/535.jpg 555,226,582,281,1 586,227,629,288,8 632,230,674,291,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/536.jpg 555,226,583,284,1 587,226,630,288,8 644,227,674,285,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/537.jpg 559,227,580,287,1 586,227,631,290,8 637,229,673,289,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/538.jpg 555,228,584,285,1 591,228,627,288,9 634,230,676,289,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/539.jpg 556,227,580,284,1 590,226,627,291,9 647,233,679,286,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/54.jpg 539,196,604,296,2 614,196,682,298,2 709,217,755,297,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/541.jpg 558,227,582,284,1 588,225,628,287,9 638,227,676,293,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/542.jpg 555,226,582,281,1 585,223,627,290,9 635,229,677,292,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/543.jpg 558,222,579,286,1 588,221,627,290,9 637,228,675,290,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/545.jpg 555,222,583,283,1 591,228,627,289,9 643,226,675,287,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/546.jpg 559,226,583,282,1 587,227,630,290,9 639,231,676,291,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/547.jpg 539,222,579,286,2 587,223,624,287,0 633,231,672,287,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/548.jpg 536,222,579,286,2 584,223,630,289,0 650,231,678,294,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/549.jpg 538,221,579,286,2 584,226,631,289,0 635,231,675,294,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/551.jpg 536,222,583,287,2 589,227,629,287,0 639,227,678,288,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/553.jpg 542,225,580,287,2 587,229,627,286,0 632,228,674,289,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/555.jpg 535,221,581,290,2 583,225,631,290,0 635,230,674,290,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/556.jpg 539,222,580,287,2 584,224,630,288,0 637,228,674,288,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/557.jpg 539,222,581,286,2 602,229,631,286,1 651,234,676,293,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/558.jpg 539,220,581,289,2 603,230,631,285,1 635,226,677,294,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/56.jpg 542,192,607,295,2 615,203,679,295,2 692,208,752,306,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/560.jpg 538,221,584,290,2 604,230,633,289,1 640,227,675,288,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/57.jpg 540,192,609,292,2 615,204,684,296,2 694,209,750,299,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/59.jpg 535,187,608,292,2 615,191,680,303,2 687,207,747,306,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/6.jpg 565,205,612,288,1 631,202,682,292,7 681,206,754,305,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/606.jpg 626,273,659,326,2 663,275,695,326,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/608.jpg 627,270,659,324,2 671,273,697,323,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/609.jpg 623,273,659,323,2 664,278,696,324,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/611.jpg 629,273,659,325,3 662,277,699,324,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/612.jpg 625,275,659,322,3 675,275,702,322,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/613.jpg 627,271,658,324,3 664,273,693,327,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/614.jpg 626,272,657,325,3 664,274,697,325,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/616.jpg 628,273,660,326,3 664,274,697,326,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/617.jpg 630,272,659,326,3 671,274,699,320,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/619.jpg 626,271,659,323,3 667,276,694,324,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/621.jpg 628,276,659,322,4 664,276,695,325,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/622.jpg 628,274,660,322,4 666,279,698,322,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/623.jpg 629,276,660,323,4 663,275,696,326,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/625.jpg 631,275,659,322,4 662,272,696,327,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/626.jpg 626,272,659,324,9 663,274,695,328,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/628.jpg 626,270,659,326,5 663,275,699,329,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/629.jpg 627,274,658,322,5 666,274,695,324,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/63.jpg 540,190,610,294,2 615,199,682,298,2 693,206,751,304,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/630.jpg 628,271,656,326,5 662,274,694,326,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/631.jpg 629,270,657,323,5 671,274,695,325,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/632.jpg 625,271,657,326,5 664,271,697,327,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/633.jpg 627,267,657,323,6 663,274,693,324,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/634.jpg 623,273,658,322,6 663,274,697,327,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/635.jpg 621,273,658,325,6 663,270,698,328,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/636.jpg 623,275,657,323,6 665,274,696,326,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/637.jpg 626,272,657,326,6 669,270,697,326,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/639.jpg 630,274,659,323,7 663,274,695,326,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/641.jpg 630,272,659,322,7 666,274,696,325,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/642.jpg 635,270,659,324,7 666,274,697,326,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/644.jpg 636,270,659,323,7 664,274,697,326,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/645.jpg 631,271,661,322,7 666,271,698,327,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/646.jpg 625,275,658,325,8 661,275,696,325,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/647.jpg 623,274,658,326,8 663,276,695,326,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/648.jpg 627,272,659,325,8 666,277,699,326,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/650.jpg 623,271,658,326,8 670,270,696,326,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/651.jpg 627,273,659,326,8 664,275,695,327,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/652.jpg 628,274,659,326,9 662,274,695,326,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/653.jpg 629,274,659,323,9 663,274,696,326,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/654.jpg 629,274,658,325,9 666,271,698,328,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/655.jpg 623,272,657,325,9 665,279,697,324,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/656.jpg 626,274,658,327,9 662,276,695,325,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/657.jpg 627,273,659,326,9 667,275,699,326,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/658.jpg 627,273,660,325,9 663,275,695,324,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/659.jpg 603,277,621,321,1 625,274,660,326,0 664,274,693,326,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/66.jpg 537,195,609,295,2 619,197,681,299,3 710,214,749,303,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/660.jpg 602,276,624,318,1 625,274,656,324,0 660,271,696,325,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/661.jpg 601,274,623,318,1 626,273,659,324,0 667,278,695,324,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/662.jpg 603,274,624,321,1 627,274,661,323,0 667,278,700,326,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/664.jpg 600,273,623,318,1 627,274,659,326,0 671,272,698,324,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/665.jpg 600,274,623,322,1 626,273,662,323,0 665,274,696,324,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/666.jpg 603,274,623,322,1 639,277,659,325,1 663,274,696,326,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/667.jpg 604,276,624,322,1 639,274,659,322,1 663,273,700,327,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/668.jpg 603,275,623,323,1 641,278,659,321,1 666,274,695,327,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/669.jpg 603,276,626,320,1 643,277,661,323,1 665,273,694,327,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/670.jpg 602,273,624,324,1 639,276,660,324,1 663,274,695,324,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/671.jpg 602,278,623,320,1 638,275,659,322,1 664,276,695,328,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/673.jpg 603,275,625,322,1 627,275,661,326,2 675,278,697,324,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/674.jpg 601,273,623,324,1 627,272,659,326,2 663,276,695,326,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/675.jpg 603,276,622,320,1 627,273,660,326,2 666,270,699,326,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/677.jpg 601,278,624,322,1 627,273,660,325,2 663,276,695,325,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/678.jpg 602,278,623,322,1 627,274,659,323,2 664,277,698,324,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/679.jpg 601,274,623,323,1 626,275,660,326,2 666,273,695,327,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/68.jpg 537,190,609,298,2 622,200,680,299,3 685,206,751,305,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/680.jpg 600,274,623,318,1 631,275,659,325,3 675,279,700,323,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/681.jpg 601,276,623,322,1 630,274,661,325,3 663,275,696,327,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/682.jpg 604,274,622,321,1 630,276,662,325,3 666,276,695,328,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/683.jpg 604,274,623,320,1 628,275,661,326,3 666,273,694,326,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/684.jpg 602,274,623,325,1 630,274,659,327,3 663,275,698,326,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/686.jpg 603,274,624,326,1 630,274,663,323,3 662,273,696,328,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/687.jpg 601,275,623,324,1 628,273,659,323,4 663,275,696,325,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/688.jpg 603,274,623,322,1 631,278,661,324,4 662,275,695,328,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/690.jpg 601,278,623,321,1 630,278,661,321,4 666,272,694,326,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/691.jpg 604,277,624,322,1 631,277,658,325,4 663,274,693,327,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/692.jpg 603,277,624,320,1 630,280,662,325,4 669,275,698,324,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/693.jpg 602,276,624,323,1 630,274,659,326,4 663,277,698,324,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/694.jpg 602,274,623,321,1 627,272,658,326,5 663,274,695,329,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/695.jpg 603,277,624,319,1 627,273,661,324,5 674,275,697,323,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/696.jpg 603,278,625,319,1 630,272,658,323,5 663,277,697,322,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/698.jpg 603,274,625,323,1 630,274,659,326,5 664,274,695,325,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/699.jpg 605,277,624,323,1 627,273,657,323,5 663,273,695,327,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/7.jpg 572,199,612,292,1 631,191,683,299,7 714,213,757,308,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/70.jpg 538,191,609,297,2 619,199,680,297,3 687,209,747,305,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/700.jpg 603,278,623,319,1 628,276,659,323,5 664,275,695,326,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/701.jpg 603,275,623,322,1 627,274,659,326,5 666,274,697,324,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/702.jpg 604,274,625,323,1 627,274,657,324,6 663,274,695,326,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/704.jpg 601,274,623,323,1 627,275,659,323,6 664,274,695,327,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/705.jpg 602,273,624,318,1 627,274,659,325,6 663,278,699,322,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/707.jpg 602,274,623,320,1 625,274,656,323,6 669,273,699,323,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/708.jpg 603,274,623,323,1 628,277,656,325,6 664,276,695,325,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/711.jpg 601,277,627,324,1 634,274,661,322,7 662,273,694,327,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/712.jpg 603,275,624,322,1 630,272,659,325,7 668,278,698,322,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/713.jpg 605,275,623,321,1 633,272,661,326,7 667,278,697,327,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/714.jpg 605,275,623,322,1 633,274,661,326,7 663,276,694,326,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/715.jpg 603,274,625,318,1 635,274,662,322,7 669,272,697,323,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/716.jpg 600,276,623,324,1 629,271,659,326,7 665,275,695,326,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/717.jpg 604,274,623,321,1 634,274,660,322,7 665,274,695,327,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/718.jpg 604,276,625,322,1 627,275,660,324,8 675,275,696,321,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/719.jpg 600,275,622,324,1 627,274,658,326,8 664,275,696,327,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/721.jpg 604,274,623,321,1 625,274,658,326,8 666,280,698,323,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/722.jpg 599,274,624,324,1 627,276,658,325,8 666,275,695,325,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/723.jpg 603,275,626,325,1 626,273,659,326,8 671,274,697,327,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/724.jpg 601,274,622,322,1 625,275,659,326,8 662,272,695,324,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/725.jpg 603,276,621,325,1 628,275,658,324,8 667,271,696,330,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/726.jpg 603,276,625,320,1 631,273,660,325,9 664,274,695,327,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/727.jpg 604,274,625,322,1 631,274,659,326,9 678,277,698,324,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/728.jpg 600,276,623,322,1 629,275,658,323,9 667,274,695,326,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/729.jpg 603,275,623,322,1 629,274,658,326,9 667,278,699,325,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/730.jpg 601,274,625,322,1 631,271,659,330,9 667,270,696,326,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/731.jpg 599,275,623,322,1 629,274,659,326,9 662,275,697,324,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/732.jpg 603,276,623,319,1 630,275,659,326,9 671,274,697,323,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/733.jpg 605,272,623,322,1 630,272,658,326,9 664,275,696,325,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/735.jpg 590,273,622,322,2 625,270,659,324,0 677,277,698,322,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/736.jpg 588,270,622,326,2 627,274,660,324,0 663,274,695,327,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/737.jpg 589,272,621,328,2 629,273,658,328,0 666,273,696,329,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/738.jpg 586,272,624,324,2 628,274,660,324,0 666,277,700,325,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/739.jpg 589,271,621,325,2 627,273,658,324,0 664,273,699,326,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/740.jpg 587,268,621,323,2 624,273,662,322,0 672,273,699,321,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/741.jpg 587,272,620,323,2 626,274,659,322,0 665,274,696,327,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/742.jpg 590,274,623,325,2 627,274,659,325,0 667,274,696,324,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/743.jpg 591,273,625,325,2 641,272,659,323,1 664,275,699,326,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/744.jpg 589,271,623,326,2 639,275,663,321,1 675,274,697,324,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/746.jpg 587,270,623,327,2 643,278,662,322,1 668,280,696,322,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/748.jpg 588,271,623,326,2 639,276,661,324,1 663,277,696,326,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/749.jpg 590,274,623,322,2 639,273,659,320,1 671,274,696,323,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/75.jpg 541,190,608,297,2 623,199,679,300,3 689,212,758,302,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/750.jpg 587,270,623,326,2 639,277,659,324,1 663,273,696,326,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/751.jpg 589,270,623,323,2 640,274,658,322,1 664,275,696,326,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/753.jpg 591,271,620,325,2 627,274,660,324,2 675,274,700,322,1
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/754.jpg 588,272,623,326,2 625,273,659,325,2 662,274,696,327,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/756.jpg 591,273,622,324,2 626,272,661,328,2 668,278,700,326,4
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/758.jpg 589,272,623,324,2 627,273,661,324,2 666,277,695,325,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/760.jpg 588,273,624,325,2 627,274,656,326,2 663,271,698,327,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/761.jpg 589,270,622,326,2 627,274,658,324,2 664,274,696,327,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/762.jpg 589,273,622,324,2 627,273,659,326,3 665,276,695,326,0
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/765.jpg 590,273,621,325,2 629,271,659,326,3 665,274,695,327,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/767.jpg 586,272,623,323,2 630,274,661,324,3 665,275,696,327,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/778.jpg 587,273,622,323,2 628,271,659,325,3 667,274,695,329,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/78.jpg 541,198,610,292,2 622,205,679,299,3 691,209,743,305,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/781.jpg 587,271,623,324,2 629,273,660,324,3 663,274,695,326,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/789.jpg 585,270,623,323,2 630,274,659,326,3 670,272,696,322,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/792.jpg 588,271,621,322,2 627,274,662,326,3 664,277,696,323,8
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/796.jpg 587,270,623,324,2 627,275,659,326,3 667,276,698,325,9
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/8.jpg 572,207,608,290,1 633,197,681,292,7 687,207,749,304,2
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/80.jpg 538,191,609,294,2 619,199,683,295,3 692,212,744,303,5
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/83.jpg 540,190,612,294,2 622,202,682,297,3 685,207,748,303,6
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/88.jpg 543,190,610,294,2 617,200,683,300,3 704,205,754,304,7
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/9.jpg 565,195,609,286,1 633,199,682,294,7 692,208,752,302,3
+E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/98.jpg 535,190,609,287,2 618,197,683,302,3 691,209,751,304,9
