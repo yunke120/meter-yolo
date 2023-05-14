@@ -1,5 +1,6 @@
-
+/logs/
 /datasets/
+*.xml
 *.pth
 *.jpg
 # Byte-compiled / optimized / DLL files

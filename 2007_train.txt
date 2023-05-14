@@ -1,312 +1,260 @@
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/100.jpg 539,192,608,296,2 621,205,683,296,4 685,212,749,303,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/102.jpg 537,192,612,296,2 622,206,682,296,4 713,216,752,299,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/11.jpg 568,200,612,284,1 634,197,685,290,7 687,209,748,302,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/12.jpg 565,198,612,286,1 631,200,682,292,7 704,206,752,298,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/14.jpg 571,198,613,286,1 632,196,684,292,7 687,211,750,303,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/15.jpg 569,198,614,288,1 615,203,682,297,8 688,207,752,306,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/16.jpg 567,202,613,289,1 615,203,683,297,8 714,217,755,298,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/17.jpg 563,199,609,291,1 612,206,682,297,8 685,205,754,304,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/18.jpg 568,203,613,287,1 617,202,682,297,8 692,208,750,304,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/19.jpg 568,204,609,289,1 612,205,682,295,8 691,215,750,295,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2.jpg 568,200,612,289,1 615,204,683,296,6 691,209,750,303,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/20.jpg 569,200,609,287,1 616,204,680,294,8 688,207,748,304,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/21.jpg 567,203,613,288,1 613,199,682,298,8 685,213,744,302,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/22.jpg 571,204,608,286,1 615,203,681,297,8 689,212,749,299,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/23.jpg 568,202,614,286,1 618,202,682,292,8 691,213,749,303,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/24.jpg 569,199,609,295,1 619,199,681,296,9 684,209,750,300,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/25.jpg 571,205,612,286,1 619,199,682,298,9 716,217,748,297,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/26.jpg 569,202,615,283,1 617,200,682,298,9 684,205,752,304,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/3.jpg 569,196,610,289,1 615,199,677,299,6 687,207,744,303,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/30.jpg 569,205,609,289,1 621,202,679,300,9 683,204,750,306,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/32.jpg 574,205,612,284,1 616,200,680,295,9 687,212,749,300,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/34.jpg 539,197,610,298,2 616,199,679,297,0 682,211,749,304,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/35.jpg 537,195,608,290,2 614,203,685,300,0 713,221,754,299,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/36.jpg 535,194,609,289,2 614,194,682,296,0 688,209,751,303,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/37.jpg 541,192,609,291,2 614,198,680,297,0 693,204,751,306,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/38.jpg 538,194,608,292,2 615,203,682,295,0 693,215,755,300,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/39.jpg 537,195,609,295,2 613,204,682,298,0 690,209,748,302,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/4.jpg 571,202,610,287,1 616,203,681,296,6 684,209,752,303,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/40.jpg 542,194,609,291,2 614,202,680,294,0 687,203,747,303,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/406.jpg 582,222,628,289,2 643,230,676,286,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/41.jpg 540,195,607,292,2 616,205,683,296,0 689,209,749,305,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/412.jpg 585,224,627,289,2 632,229,675,290,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/413.jpg 586,224,627,290,2 635,230,675,290,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/415.jpg 586,225,627,288,3 631,229,674,291,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/416.jpg 588,224,629,288,3 648,232,680,285,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/417.jpg 588,225,629,288,3 633,227,675,290,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/419.jpg 588,222,628,291,3 635,226,676,288,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/420.jpg 588,225,627,286,3 632,227,676,290,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/421.jpg 587,223,628,290,3 630,226,671,290,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/422.jpg 587,224,632,290,3 645,227,675,288,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/423.jpg 588,223,629,289,3 635,228,675,290,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/425.jpg 589,226,632,284,4 647,234,679,285,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/426.jpg 590,227,631,286,4 634,229,675,290,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/428.jpg 588,221,631,285,4 637,230,675,291,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/429.jpg 587,228,632,283,4 646,230,676,288,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/43.jpg 539,191,612,298,2 614,202,683,300,0 692,208,751,308,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/431.jpg 588,230,630,283,4 636,230,675,289,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/432.jpg 587,225,627,289,5 647,232,679,286,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/433.jpg 586,222,625,287,5 634,227,674,290,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/434.jpg 587,226,627,287,5 636,228,675,286,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/435.jpg 588,224,624,288,5 635,227,671,290,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/438.jpg 587,226,626,289,5 633,229,674,290,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/439.jpg 585,226,625,289,6 648,232,679,285,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/441.jpg 587,227,625,286,6 636,232,675,287,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/442.jpg 583,226,624,285,6 633,228,671,288,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/443.jpg 586,223,625,287,6 644,227,677,285,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/445.jpg 584,223,623,287,6 634,228,672,290,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/446.jpg 596,221,631,290,7 647,230,675,288,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/447.jpg 595,222,629,282,7 636,230,674,289,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/448.jpg 595,222,628,285,7 638,229,674,290,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/449.jpg 595,222,627,290,7 637,230,673,291,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/45.jpg 543,194,609,291,2 646,214,680,288,1 685,209,751,302,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/450.jpg 597,222,627,285,7 640,226,675,287,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/451.jpg 593,222,627,285,7 633,229,673,289,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/453.jpg 583,223,629,289,8 648,235,676,286,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/455.jpg 585,226,627,287,8 636,230,676,286,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/456.jpg 587,226,627,287,8 637,227,672,293,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/457.jpg 584,223,627,287,8 641,225,677,292,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/459.jpg 585,225,627,286,8 635,229,673,290,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/460.jpg 591,225,627,290,9 650,230,679,289,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/461.jpg 586,227,630,288,9 636,230,674,294,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/462.jpg 587,226,627,290,9 634,229,674,287,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/463.jpg 587,228,629,290,9 635,230,671,289,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/464.jpg 587,227,627,289,9 645,224,675,288,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/466.jpg 587,225,628,292,9 636,226,675,292,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/468.jpg 558,227,582,282,1 585,222,627,289,0 632,230,672,290,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/469.jpg 559,230,583,278,1 588,226,626,288,0 637,227,673,292,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/470.jpg 556,224,579,283,1 584,228,627,286,0 637,227,675,290,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/471.jpg 556,228,586,285,1 586,223,629,290,0 632,228,673,290,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/472.jpg 555,225,582,282,1 587,224,628,286,0 643,221,675,290,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/473.jpg 557,224,582,282,1 586,225,629,287,0 634,227,677,294,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/474.jpg 559,225,580,280,1 606,226,627,290,1 632,230,674,293,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/475.jpg 558,228,582,279,1 603,229,629,284,1 635,228,675,292,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/476.jpg 560,227,580,288,1 603,230,631,287,1 635,228,675,294,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/477.jpg 556,227,582,281,1 607,230,627,285,1 637,230,674,288,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/478.jpg 558,222,581,282,1 603,230,630,284,1 634,224,671,294,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/479.jpg 557,226,583,285,1 602,230,628,287,1 640,225,675,290,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/480.jpg 555,222,582,285,1 604,223,629,290,1 636,227,676,294,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/481.jpg 558,222,581,285,1 587,222,628,290,2 633,228,674,290,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/482.jpg 559,226,582,285,1 588,226,627,289,2 646,226,677,286,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/483.jpg 553,226,583,284,1 587,222,629,290,2 635,227,674,294,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/484.jpg 559,226,583,286,1 587,226,627,289,2 637,228,675,290,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/485.jpg 558,225,583,282,1 590,228,628,290,2 637,227,673,292,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/486.jpg 562,226,582,282,1 585,224,627,290,2 635,229,671,290,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/487.jpg 558,223,580,288,1 586,223,627,291,2 635,228,673,290,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/488.jpg 559,226,582,282,1 585,226,627,288,2 636,230,675,293,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/489.jpg 553,226,581,283,1 587,229,628,289,3 634,229,675,292,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/49.jpg 538,190,608,294,2 641,208,681,297,1 693,209,747,303,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/490.jpg 559,226,583,282,1 591,222,627,290,3 631,227,675,294,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/491.jpg 559,228,583,284,1 591,225,627,290,3 638,226,675,294,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/492.jpg 560,226,583,287,1 591,227,629,287,3 636,229,671,290,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/493.jpg 553,226,583,280,1 591,224,627,288,3 634,227,671,293,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/494.jpg 555,224,583,288,1 590,225,629,290,3 641,227,675,289,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/495.jpg 553,225,584,285,1 591,225,627,291,3 633,226,675,293,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/496.jpg 559,227,585,284,1 592,226,630,285,4 635,231,674,289,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/498.jpg 551,223,581,282,1 590,226,630,286,4 636,226,673,291,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/499.jpg 558,226,584,282,1 591,227,630,288,4 637,230,674,288,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/5.jpg 564,199,606,283,1 614,204,681,299,6 690,206,750,302,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/50.jpg 538,199,609,295,2 647,212,682,291,1 687,211,746,303,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/500.jpg 555,224,579,286,1 591,228,628,289,4 638,229,674,292,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/501.jpg 555,226,583,282,1 591,225,628,287,4 643,223,675,294,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/502.jpg 556,223,580,278,1 591,222,629,286,4 634,226,675,290,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/503.jpg 559,226,583,286,1 591,223,629,284,4 636,227,673,291,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/504.jpg 557,226,579,285,1 589,227,625,290,5 633,229,674,289,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/505.jpg 556,226,579,282,1 587,222,627,288,5 650,230,675,289,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/507.jpg 555,226,582,279,1 591,224,628,287,5 639,227,673,289,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/508.jpg 558,228,583,281,1 590,222,629,290,5 635,229,671,293,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/509.jpg 556,225,578,282,1 588,225,628,285,5 633,227,673,290,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/51.jpg 538,190,607,295,2 641,209,682,292,1 688,214,752,305,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/510.jpg 557,222,580,288,1 589,223,625,291,5 647,228,673,286,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/511.jpg 559,223,583,282,1 591,225,625,287,5 631,223,675,291,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/512.jpg 559,226,583,282,1 588,224,624,287,6 629,230,675,294,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/514.jpg 559,227,584,283,1 587,227,627,287,6 633,228,674,290,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/515.jpg 557,224,580,284,1 589,224,625,288,6 634,229,675,290,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/516.jpg 559,228,583,282,1 587,225,627,289,6 636,225,671,291,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/517.jpg 558,229,583,282,1 590,227,627,288,6 633,227,674,290,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/519.jpg 559,224,583,286,1 586,226,627,287,6 635,226,675,294,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/520.jpg 557,228,583,284,1 587,221,625,290,6 635,228,675,290,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/521.jpg 557,225,583,281,1 595,226,629,286,7 647,232,677,290,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/522.jpg 556,227,585,283,1 596,226,628,283,7 633,226,674,292,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/523.jpg 554,226,583,284,1 599,222,628,286,7 636,227,674,291,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/525.jpg 555,224,584,283,1 596,222,627,285,7 634,225,672,294,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/526.jpg 555,226,582,286,1 598,222,629,286,7 632,227,672,291,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/528.jpg 557,225,583,288,1 595,220,631,288,7 634,226,679,290,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/53.jpg 539,194,608,289,2 614,202,677,296,2 685,208,748,299,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/530.jpg 556,222,582,283,1 586,222,631,288,8 651,228,681,286,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/531.jpg 560,227,583,282,1 589,226,629,286,8 634,229,675,286,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/532.jpg 557,227,582,284,1 586,224,629,290,8 635,226,675,292,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/533.jpg 557,225,583,282,1 587,226,629,289,8 636,230,678,286,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/535.jpg 555,226,582,281,1 586,227,629,288,8 632,230,674,291,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/536.jpg 555,226,583,284,1 587,226,630,288,8 644,227,674,285,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/537.jpg 559,227,580,287,1 586,227,631,290,8 637,229,673,289,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/538.jpg 555,228,584,285,1 591,228,627,288,9 634,230,676,289,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/539.jpg 556,227,580,284,1 590,226,627,291,9 647,233,679,286,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/54.jpg 539,196,604,296,2 614,196,682,298,2 709,217,755,297,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/541.jpg 558,227,582,284,1 588,225,628,287,9 638,227,676,293,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/542.jpg 555,226,582,281,1 585,223,627,290,9 635,229,677,292,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/543.jpg 558,222,579,286,1 588,221,627,290,9 637,228,675,290,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/545.jpg 555,222,583,283,1 591,228,627,289,9 643,226,675,287,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/546.jpg 559,226,583,282,1 587,227,630,290,9 639,231,676,291,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/547.jpg 539,222,579,286,2 587,223,624,287,0 633,231,672,287,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/548.jpg 536,222,579,286,2 584,223,630,289,0 650,231,678,294,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/549.jpg 538,221,579,286,2 584,226,631,289,0 635,231,675,294,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/551.jpg 536,222,583,287,2 589,227,629,287,0 639,227,678,288,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/553.jpg 542,225,580,287,2 587,229,627,286,0 632,228,674,289,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/555.jpg 535,221,581,290,2 583,225,631,290,0 635,230,674,290,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/556.jpg 539,222,580,287,2 584,224,630,288,0 637,228,674,288,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/557.jpg 539,222,581,286,2 602,229,631,286,1 651,234,676,293,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/558.jpg 539,220,581,289,2 603,230,631,285,1 635,226,677,294,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/56.jpg 542,192,607,295,2 615,203,679,295,2 692,208,752,306,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/560.jpg 538,221,584,290,2 604,230,633,289,1 640,227,675,288,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/57.jpg 540,192,609,292,2 615,204,684,296,2 694,209,750,299,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/59.jpg 535,187,608,292,2 615,191,680,303,2 687,207,747,306,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/6.jpg 565,205,612,288,1 631,202,682,292,7 681,206,754,305,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/606.jpg 626,273,659,326,2 663,275,695,326,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/608.jpg 627,270,659,324,2 671,273,697,323,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/609.jpg 623,273,659,323,2 664,278,696,324,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/611.jpg 629,273,659,325,3 662,277,699,324,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/612.jpg 625,275,659,322,3 675,275,702,322,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/613.jpg 627,271,658,324,3 664,273,693,327,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/614.jpg 626,272,657,325,3 664,274,697,325,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/616.jpg 628,273,660,326,3 664,274,697,326,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/617.jpg 630,272,659,326,3 671,274,699,320,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/619.jpg 626,271,659,323,3 667,276,694,324,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/621.jpg 628,276,659,322,4 664,276,695,325,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/622.jpg 628,274,660,322,4 666,279,698,322,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/623.jpg 629,276,660,323,4 663,275,696,326,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/625.jpg 631,275,659,322,4 662,272,696,327,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/626.jpg 626,272,659,324,9 663,274,695,328,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/628.jpg 626,270,659,326,5 663,275,699,329,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/629.jpg 627,274,658,322,5 666,274,695,324,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/63.jpg 540,190,610,294,2 615,199,682,298,2 693,206,751,304,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/630.jpg 628,271,656,326,5 662,274,694,326,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/631.jpg 629,270,657,323,5 671,274,695,325,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/632.jpg 625,271,657,326,5 664,271,697,327,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/633.jpg 627,267,657,323,6 663,274,693,324,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/634.jpg 623,273,658,322,6 663,274,697,327,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/635.jpg 621,273,658,325,6 663,270,698,328,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/636.jpg 623,275,657,323,6 665,274,696,326,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/637.jpg 626,272,657,326,6 669,270,697,326,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/639.jpg 630,274,659,323,7 663,274,695,326,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/641.jpg 630,272,659,322,7 666,274,696,325,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/642.jpg 635,270,659,324,7 666,274,697,326,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/644.jpg 636,270,659,323,7 664,274,697,326,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/645.jpg 631,271,661,322,7 666,271,698,327,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/646.jpg 625,275,658,325,8 661,275,696,325,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/647.jpg 623,274,658,326,8 663,276,695,326,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/648.jpg 627,272,659,325,8 666,277,699,326,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/650.jpg 623,271,658,326,8 670,270,696,326,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/651.jpg 627,273,659,326,8 664,275,695,327,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/652.jpg 628,274,659,326,9 662,274,695,326,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/653.jpg 629,274,659,323,9 663,274,696,326,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/654.jpg 629,274,658,325,9 666,271,698,328,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/655.jpg 623,272,657,325,9 665,279,697,324,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/656.jpg 626,274,658,327,9 662,276,695,325,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/657.jpg 627,273,659,326,9 667,275,699,326,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/658.jpg 627,273,660,325,9 663,275,695,324,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/659.jpg 603,277,621,321,1 625,274,660,326,0 664,274,693,326,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/66.jpg 537,195,609,295,2 619,197,681,299,3 710,214,749,303,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/660.jpg 602,276,624,318,1 625,274,656,324,0 660,271,696,325,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/661.jpg 601,274,623,318,1 626,273,659,324,0 667,278,695,324,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/662.jpg 603,274,624,321,1 627,274,661,323,0 667,278,700,326,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/664.jpg 600,273,623,318,1 627,274,659,326,0 671,272,698,324,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/665.jpg 600,274,623,322,1 626,273,662,323,0 665,274,696,324,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/666.jpg 603,274,623,322,1 639,277,659,325,1 663,274,696,326,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/667.jpg 604,276,624,322,1 639,274,659,322,1 663,273,700,327,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/668.jpg 603,275,623,323,1 641,278,659,321,1 666,274,695,327,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/669.jpg 603,276,626,320,1 643,277,661,323,1 665,273,694,327,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/670.jpg 602,273,624,324,1 639,276,660,324,1 663,274,695,324,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/671.jpg 602,278,623,320,1 638,275,659,322,1 664,276,695,328,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/673.jpg 603,275,625,322,1 627,275,661,326,2 675,278,697,324,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/674.jpg 601,273,623,324,1 627,272,659,326,2 663,276,695,326,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/675.jpg 603,276,622,320,1 627,273,660,326,2 666,270,699,326,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/677.jpg 601,278,624,322,1 627,273,660,325,2 663,276,695,325,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/678.jpg 602,278,623,322,1 627,274,659,323,2 664,277,698,324,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/679.jpg 601,274,623,323,1 626,275,660,326,2 666,273,695,327,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/68.jpg 537,190,609,298,2 622,200,680,299,3 685,206,751,305,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/680.jpg 600,274,623,318,1 631,275,659,325,3 675,279,700,323,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/681.jpg 601,276,623,322,1 630,274,661,325,3 663,275,696,327,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/682.jpg 604,274,622,321,1 630,276,662,325,3 666,276,695,328,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/683.jpg 604,274,623,320,1 628,275,661,326,3 666,273,694,326,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/684.jpg 602,274,623,325,1 630,274,659,327,3 663,275,698,326,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/686.jpg 603,274,624,326,1 630,274,663,323,3 662,273,696,328,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/687.jpg 601,275,623,324,1 628,273,659,323,4 663,275,696,325,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/688.jpg 603,274,623,322,1 631,278,661,324,4 662,275,695,328,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/690.jpg 601,278,623,321,1 630,278,661,321,4 666,272,694,326,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/691.jpg 604,277,624,322,1 631,277,658,325,4 663,274,693,327,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/692.jpg 603,277,624,320,1 630,280,662,325,4 669,275,698,324,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/693.jpg 602,276,624,323,1 630,274,659,326,4 663,277,698,324,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/694.jpg 602,274,623,321,1 627,272,658,326,5 663,274,695,329,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/695.jpg 603,277,624,319,1 627,273,661,324,5 674,275,697,323,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/696.jpg 603,278,625,319,1 630,272,658,323,5 663,277,697,322,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/698.jpg 603,274,625,323,1 630,274,659,326,5 664,274,695,325,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/699.jpg 605,277,624,323,1 627,273,657,323,5 663,273,695,327,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/7.jpg 572,199,612,292,1 631,191,683,299,7 714,213,757,308,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/70.jpg 538,191,609,297,2 619,199,680,297,3 687,209,747,305,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/700.jpg 603,278,623,319,1 628,276,659,323,5 664,275,695,326,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/701.jpg 603,275,623,322,1 627,274,659,326,5 666,274,697,324,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/702.jpg 604,274,625,323,1 627,274,657,324,6 663,274,695,326,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/704.jpg 601,274,623,323,1 627,275,659,323,6 664,274,695,327,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/705.jpg 602,273,624,318,1 627,274,659,325,6 663,278,699,322,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/707.jpg 602,274,623,320,1 625,274,656,323,6 669,273,699,323,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/708.jpg 603,274,623,323,1 628,277,656,325,6 664,276,695,325,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/711.jpg 601,277,627,324,1 634,274,661,322,7 662,273,694,327,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/712.jpg 603,275,624,322,1 630,272,659,325,7 668,278,698,322,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/713.jpg 605,275,623,321,1 633,272,661,326,7 667,278,697,327,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/714.jpg 605,275,623,322,1 633,274,661,326,7 663,276,694,326,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/715.jpg 603,274,625,318,1 635,274,662,322,7 669,272,697,323,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/716.jpg 600,276,623,324,1 629,271,659,326,7 665,275,695,326,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/717.jpg 604,274,623,321,1 634,274,660,322,7 665,274,695,327,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/718.jpg 604,276,625,322,1 627,275,660,324,8 675,275,696,321,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/719.jpg 600,275,622,324,1 627,274,658,326,8 664,275,696,327,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/721.jpg 604,274,623,321,1 625,274,658,326,8 666,280,698,323,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/722.jpg 599,274,624,324,1 627,276,658,325,8 666,275,695,325,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/723.jpg 603,275,626,325,1 626,273,659,326,8 671,274,697,327,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/724.jpg 601,274,622,322,1 625,275,659,326,8 662,272,695,324,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/725.jpg 603,276,621,325,1 628,275,658,324,8 667,271,696,330,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/726.jpg 603,276,625,320,1 631,273,660,325,9 664,274,695,327,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/727.jpg 604,274,625,322,1 631,274,659,326,9 678,277,698,324,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/728.jpg 600,276,623,322,1 629,275,658,323,9 667,274,695,326,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/729.jpg 603,275,623,322,1 629,274,658,326,9 667,278,699,325,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/730.jpg 601,274,625,322,1 631,271,659,330,9 667,270,696,326,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/731.jpg 599,275,623,322,1 629,274,659,326,9 662,275,697,324,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/732.jpg 603,276,623,319,1 630,275,659,326,9 671,274,697,323,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/733.jpg 605,272,623,322,1 630,272,658,326,9 664,275,696,325,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/735.jpg 590,273,622,322,2 625,270,659,324,0 677,277,698,322,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/736.jpg 588,270,622,326,2 627,274,660,324,0 663,274,695,327,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/737.jpg 589,272,621,328,2 629,273,658,328,0 666,273,696,329,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/738.jpg 586,272,624,324,2 628,274,660,324,0 666,277,700,325,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/739.jpg 589,271,621,325,2 627,273,658,324,0 664,273,699,326,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/740.jpg 587,268,621,323,2 624,273,662,322,0 672,273,699,321,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/741.jpg 587,272,620,323,2 626,274,659,322,0 665,274,696,327,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/742.jpg 590,274,623,325,2 627,274,659,325,0 667,274,696,324,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/743.jpg 591,273,625,325,2 641,272,659,323,1 664,275,699,326,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/744.jpg 589,271,623,326,2 639,275,663,321,1 675,274,697,324,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/746.jpg 587,270,623,327,2 643,278,662,322,1 668,280,696,322,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/748.jpg 588,271,623,326,2 639,276,661,324,1 663,277,696,326,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/749.jpg 590,274,623,322,2 639,273,659,320,1 671,274,696,323,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/75.jpg 541,190,608,297,2 623,199,679,300,3 689,212,758,302,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/750.jpg 587,270,623,326,2 639,277,659,324,1 663,273,696,326,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/751.jpg 589,270,623,323,2 640,274,658,322,1 664,275,696,326,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/753.jpg 591,271,620,325,2 627,274,660,324,2 675,274,700,322,1
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/754.jpg 588,272,623,326,2 625,273,659,325,2 662,274,696,327,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/756.jpg 591,273,622,324,2 626,272,661,328,2 668,278,700,326,4
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/758.jpg 589,272,623,324,2 627,273,661,324,2 666,277,695,325,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/760.jpg 588,273,624,325,2 627,274,656,326,2 663,271,698,327,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/761.jpg 589,270,622,326,2 627,274,658,324,2 664,274,696,327,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/762.jpg 589,273,622,324,2 627,273,659,326,3 665,276,695,326,0
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/765.jpg 590,273,621,325,2 629,271,659,326,3 665,274,695,327,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/767.jpg 586,272,623,323,2 630,274,661,324,3 665,275,696,327,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/778.jpg 587,273,622,323,2 628,271,659,325,3 667,274,695,329,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/78.jpg 541,198,610,292,2 622,205,679,299,3 691,209,743,305,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/781.jpg 587,271,623,324,2 629,273,660,324,3 663,274,695,326,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/789.jpg 585,270,623,323,2 630,274,659,326,3 670,272,696,322,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/792.jpg 588,271,621,322,2 627,274,662,326,3 664,277,696,323,8
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/796.jpg 587,270,623,324,2 627,275,659,326,3 667,276,698,325,9
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/8.jpg 572,207,608,290,1 633,197,681,292,7 687,207,749,304,2
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/80.jpg 538,191,609,294,2 619,199,683,295,3 692,212,744,303,5
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/83.jpg 540,190,612,294,2 622,202,682,297,3 685,207,748,303,6
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/88.jpg 543,190,610,294,2 617,200,683,300,3 704,205,754,304,7
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/9.jpg 565,195,609,286,1 633,199,682,294,7 692,208,752,302,3
-E:\fujun\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/98.jpg 535,190,609,287,2 618,197,683,302,3 691,209,751,304,9
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/1.jpg 161,165,187,202,8 193,166,218,203,9 224,166,248,202,7 131,241,159,278,0 162,241,188,277,0 192,241,217,277,0 220,241,247,277,0 154,270,161,278,10 184,195,191,205,10
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/10.jpg 121,156,161,213,0 167,158,208,215,8 246,205,254,213,10 235,158,254,215,1 262,157,298,215,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/100.jpg 155,107,194,159,4 199,106,231,160,5 241,107,274,157,1 269,150,276,159,10 281,104,317,159,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/101.jpg 98,262,132,314,4 142,263,172,314,5 210,303,218,313,10 184,263,215,314,3 224,262,255,312,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/102.jpg 158,274,194,324,4 203,275,235,326,5 273,316,282,325,10 243,273,278,326,6 293,273,325,327,7
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/103.jpg 108,135,140,184,4 218,175,225,184,10 149,133,181,186,5 188,134,223,184,8 229,133,266,185,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/104.jpg 78,78,111,133,4 187,123,195,132,10 116,79,151,131,6 159,79,193,132,0 202,79,235,132,9
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/105.jpg 145,184,180,236,4 254,227,264,236,10 184,185,219,237,6 228,185,262,237,4 270,185,304,236,4
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/106.jpg 160,126,194,175,4 198,127,230,176,6 265,167,274,175,10 240,126,272,175,9 279,125,311,174,9
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/107.jpg 99,219,130,268,4 144,218,171,269,7 202,258,212,268,10 176,219,209,267,2 215,219,249,267,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/108.jpg 90,271,121,319,4 135,271,161,319,7 195,310,203,318,10 168,269,201,319,4 211,268,241,319,1
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/109.jpg 85,124,115,171,4 127,123,153,170,7 185,161,192,170,10 159,123,190,170,9 195,123,227,169,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/11.jpg 95,159,150,238,0 159,159,214,236,8 227,157,275,236,4 268,222,277,235,10 285,157,340,236,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/110.jpg 150,182,178,221,4 184,182,210,220,9 237,213,244,222,10 217,180,243,223,4 249,182,273,222,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/111.jpg 139,129,172,181,4 180,130,213,181,9 247,171,256,181,10 228,130,254,181,7 260,129,295,181,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/114.jpg 89,91,117,140,5 130,91,159,141,1 189,132,197,139,10 170,93,195,141,1 203,93,230,141,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/115.jpg 135,63,165,113,5 179,63,209,113,1 242,106,249,113,10 218,64,246,114,5 254,65,289,114,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/116.jpg 135,147,167,199,5 183,147,213,199,1 246,190,253,197,10 226,146,252,199,7 257,147,293,197,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/117.jpg 109,224,135,268,5 141,225,174,269,2 203,260,211,268,10 182,225,209,269,3 215,225,243,268,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/118.jpg 88,275,117,323,5 126,275,160,324,2 193,314,201,324,10 165,276,199,324,8 212,276,240,324,7
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/12.jpg 69,160,134,254,0 144,159,210,254,8 275,236,287,252,10 237,160,283,252,7 295,160,359,252,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/121.jpg 165,107,195,159,5 206,107,240,157,4 272,148,283,158,10 246,107,279,158,2 289,106,322,157,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/122.jpg 69,78,100,131,5 112,77,144,132,4 179,122,188,132,10 149,79,183,131,6 191,80,228,132,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/124.jpg 146,205,180,256,5 189,204,220,256,5 258,245,267,255,10 232,205,266,256,3 273,204,308,256,4
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/126.jpg 107,170,138,224,5 156,170,183,222,7 218,212,226,222,10 189,171,221,222,6 236,169,268,222,1
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/127.jpg 90,94,124,154,5 145,95,176,155,7 216,144,225,153,10 184,95,223,154,8 230,94,270,155,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/128.jpg 137,190,162,235,5 169,191,200,235,8 229,227,238,235,10 213,190,236,237,7 243,190,271,236,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/13.jpg 259,230,273,244,10 80,163,137,246,0 148,164,203,244,8 217,164,268,244,9 279,163,335,245,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/131.jpg 92,96,125,150,6 133,96,171,150,0 206,138,214,149,10 180,95,213,150,3 218,95,254,148,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/133.jpg 136,228,171,272,8 177,228,207,273,9 235,263,241,272,10 213,228,238,273,5 245,230,274,273,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/135.jpg 125,230,156,274,9 159,230,193,275,0 222,268,229,275,10 201,230,229,276,4 233,232,262,275,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/136.jpg 113,162,143,209,9 147,163,179,207,0 208,198,216,207,10 186,163,215,208,9 224,164,251,207,1
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/137.jpg 78,93,112,146,9 124,96,154,148,1 185,138,196,150,10 158,97,193,148,2 199,98,235,150,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/139.jpg 92,175,135,241,9 148,176,191,243,1 235,232,245,242,10 197,177,244,243,8 251,179,298,243,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/14.jpg 94,173,146,248,0 157,173,205,247,9 254,233,264,245,10 242,176,261,245,1 270,176,321,246,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/140.jpg 77,176,134,259,9 143,179,201,258,2 256,246,268,258,10 216,177,267,260,1 278,179,328,260,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/141.jpg 258,182,271,196,10 72,107,130,195,9 141,109,200,195,2 215,109,269,196,4 278,112,332,196,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/142.jpg 106,258,164,342,9 181,257,234,343,3 291,326,303,340,10 250,259,302,341,1 308,257,365,342,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/143.jpg 109,189,149,244,9 159,188,196,245,3 233,235,243,244,10 203,186,238,246,5 246,186,286,246,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/144.jpg 60,108,111,188,9 125,110,176,189,3 229,177,241,189,10 196,111,238,190,7 248,112,301,190,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/145.jpg 49,84,108,170,9 124,83,177,169,4 236,156,250,170,10 189,84,246,172,0 259,86,313,170,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/146.jpg 63,223,118,303,9 132,225,182,303,4 234,289,246,302,10 196,225,243,305,4 259,225,304,305,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/147.jpg 100,175,142,238,9 155,176,197,239,7 236,225,246,239,10 202,176,246,240,2 256,176,296,240,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/148.jpg 89,138,133,202,9 142,138,184,202,7 223,187,233,199,10 189,137,230,199,8 241,136,279,198,9
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/149.jpg 106,245,147,307,9 155,244,198,307,8 240,293,251,305,10 208,242,247,306,4 256,242,297,306,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/15.jpg 246,224,256,238,10 103,170,149,237,0 160,171,201,238,9 213,172,253,236,3 260,172,304,237,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/151.jpg 90,85,140,158,9 149,87,198,160,9 244,145,255,159,10 203,87,253,159,8 262,88,308,161,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/152.jpg 94,175,134,242,1 140,174,188,240,0 195,171,242,240,0 289,226,301,239,10 249,171,298,240,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/154.jpg 150,169,179,211,1 185,170,210,210,7 212,169,243,212,2 268,205,275,213,10 244,170,272,212,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/155.jpg 100,212,135,260,1 143,212,171,260,7 179,211,211,260,3 241,249,252,260,10 216,212,249,260,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/156.jpg 142,150,175,202,1 186,150,218,200,7 226,150,259,200,3 293,192,302,201,10 267,148,301,201,4
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/157.jpg 109,212,145,260,0 155,212,181,256,1 213,247,220,256,10 188,209,215,258,6 226,210,255,257,9
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/159.jpg 115,135,149,184,9 144,174,154,186,10 167,137,189,184,1 193,136,226,186,6 106,267,115,279,10 76,231,111,279,0 117,233,151,278,0 154,232,186,277,0 192,234,226,279,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/16.jpg 110,182,150,237,0 234,227,244,237,10 159,182,196,238,9 205,182,237,238,5 252,182,286,238,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/160.jpg 143,205,152,215,10 111,288,119,297,10 117,170,147,214,9 161,174,185,213,1 187,172,218,216,6 84,255,114,296,0 121,256,148,296,9 155,256,184,295,7 196,259,219,295,1
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/161.jpg 111,176,127,211,1 154,203,162,213,10 127,276,137,286,10 131,175,158,214,0 165,175,192,210,4 194,174,221,212,6 105,249,131,285,0 138,248,162,284,9 168,248,191,282,7 196,248,222,284,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/163.jpg 85,163,115,210,1 148,200,159,215,10 118,160,152,212,6 163,162,197,212,4 205,163,238,210,7 111,294,121,310,10 96,264,117,306,1 123,264,157,308,0 164,263,195,308,3 198,264,235,311,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/164.jpg 146,172,155,184,10 110,269,120,279,10 90,235,114,276,1 127,236,153,275,1 158,234,190,278,2 195,233,230,279,8 82,135,113,180,1 115,133,149,183,8 157,133,191,184,0 198,134,232,184,7
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/165.jpg 100,146,126,189,1 156,180,165,190,10 131,144,161,190,9 168,143,196,189,5 205,142,235,187,7 125,265,133,276,10 108,236,129,276,1 135,233,164,275,2 169,233,199,275,8 203,233,234,276,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/166.jpg 87,137,120,184,2 151,174,161,185,10 120,261,131,274,10 133,140,157,183,1 162,139,196,183,2 200,136,232,183,7 99,232,126,273,1 132,230,162,273,4 167,228,195,272,7 201,230,231,272,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/167.jpg 82,164,124,223,2 165,211,177,224,10 134,164,170,223,3 181,165,218,223,5 228,165,268,221,7 124,320,133,331,10 105,282,127,330,1 135,279,172,331,8 182,279,217,331,3 223,278,262,331,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/169.jpg 91,155,128,211,2 168,198,178,212,10 138,156,173,210,7 181,155,217,210,0 227,154,262,206,7 99,262,133,311,2 130,301,141,314,10 144,263,175,311,3 184,260,220,311,3 224,260,260,310,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/17.jpg 82,161,135,234,0 147,160,194,236,9 244,221,254,232,10 201,160,252,234,8 260,161,311,234,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/170.jpg 124,159,163,215,2 202,203,212,215,10 171,158,207,215,9 215,159,253,213,6 263,157,300,213,7 160,307,172,319,10 131,269,165,319,2 174,269,208,316,5 218,267,251,314,7 257,268,295,316,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/171.jpg 102,140,144,206,3 190,192,203,208,10 165,145,197,204,1 205,141,251,207,6 260,140,307,205,7 141,315,153,329,10 105,270,147,329,2 157,270,198,325,7 204,271,249,328,0 254,270,298,327,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/172.jpg 116,143,153,201,3 192,191,204,203,10 161,145,199,202,2 207,144,247,202,6 257,143,296,201,7 148,299,160,311,10 118,259,154,309,2 162,259,200,311,8 207,259,244,311,0 249,258,288,311,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/173.jpg 112,139,151,197,3 193,185,205,198,10 161,137,199,197,3 210,137,249,197,3 258,136,297,194,7 149,296,161,307,10 118,254,154,308,2 163,254,202,308,8 208,253,245,306,6 252,252,291,306,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/175.jpg 101,143,146,211,3 193,196,205,210,10 152,141,199,209,8 207,143,255,209,0 267,142,312,208,7 145,322,156,335,10 110,276,148,334,3 159,275,201,334,2 207,274,252,332,8 259,275,304,332,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/177.jpg 88,127,135,193,4 184,181,200,198,10 133,310,146,323,10 146,124,192,196,3 209,127,253,194,1 257,125,312,197,8 251,261,302,323,8 201,262,247,323,2 148,263,192,323,6 101,262,141,322,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/179.jpg 91,125,138,190,4 185,178,201,193,10 138,312,149,323,10 101,261,142,325,3 152,261,196,322,8 206,257,246,321,3 256,259,300,320,8 257,121,306,192,8 148,122,191,193,5 203,121,248,191,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/18.jpg 85,155,141,234,1 146,154,203,234,0 257,219,268,233,10 211,154,265,233,0 275,156,329,234,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/180.jpg 98,138,146,204,4 196,195,212,208,10 144,333,157,347,10 156,136,204,207,8 273,134,325,210,8 212,281,263,345,8 220,137,267,205,4 107,281,148,347,3 160,281,205,347,5 268,280,314,345,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/182.jpg 92,132,135,192,4 181,181,194,195,10 147,133,189,193,4 200,131,244,192,4 250,131,297,195,8 133,303,144,315,10 102,259,138,315,3 157,260,190,313,1 200,257,238,315,7 244,258,288,315,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/183.jpg 104,143,151,209,4 197,196,211,211,10 159,141,206,210,2 218,141,262,211,3 271,141,319,209,8 147,324,159,336,10 111,277,153,337,3 217,276,258,337,3 162,280,204,335,0 264,276,314,337,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/184.jpg 95,122,138,194,3 188,178,202,194,10 151,123,196,193,9 206,123,251,193,6 263,124,306,191,7 135,309,149,323,10 100,262,142,324,2 153,261,195,322,9 203,259,248,321,0 253,257,296,318,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/185.jpg 99,132,138,198,3 183,183,195,198,10 148,133,191,196,7 199,133,241,196,0 248,134,292,197,8 135,303,148,319,10 101,259,141,317,2 152,257,190,317,7 201,259,238,314,7 244,258,284,315,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/186.jpg 194,201,205,213,10 153,304,165,316,10 121,160,153,214,3 208,158,242,211,3 165,159,197,212,5 248,158,286,212,8 123,265,156,316,2 165,265,198,315,6 205,264,241,313,0 247,263,282,312,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/188.jpg 172,143,210,205,7 206,194,216,207,10 218,144,261,206,2 270,143,312,203,7 159,308,169,321,10 125,266,162,320,0 168,267,212,319,2 217,264,255,319,6 262,264,305,318,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/189.jpg 164,145,198,204,5 194,191,205,204,10 208,146,248,202,2 257,146,294,201,7 118,259,156,310,0 152,299,163,313,10 166,257,200,309,3 207,258,244,309,2 250,256,288,308,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/19.jpg 76,151,136,236,1 141,148,204,236,0 261,219,277,236,10 212,148,272,236,2 282,149,341,236,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2.jpg 143,183,181,235,0 189,183,218,236,5 254,225,264,234,10 228,183,260,234,5 267,184,300,234,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/20.jpg 100,169,148,241,1 155,170,206,242,0 258,228,267,242,10 219,168,264,243,4 275,168,323,241,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2000.jpg 104,112,143,176,1 154,111,192,175,1 234,163,244,176,10 202,111,241,176,9 251,113,293,176,9 152,196,180,239,1 184,196,215,240,2 246,232,253,240,10 221,197,251,240,0 257,198,289,240,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2002.jpg 127,137,156,184,1 166,138,193,185,1 224,177,233,185,10 200,137,231,185,9 239,138,269,185,9 164,202,184,232,1 188,201,211,234,2 233,226,239,234,10 215,200,238,234,0 243,201,266,235,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2003.jpg 93,72,116,111,1 124,73,151,112,1 175,105,183,113,10 155,73,180,113,9 187,74,211,114,9 124,127,143,155,1 146,126,165,156,2 183,148,188,155,10 169,125,187,156,0 191,126,211,157,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2004.jpg 174,85,197,124,1 205,87,230,125,1 255,119,261,125,10 266,85,291,125,9 234,85,259,124,9 203,140,220,165,1 223,138,243,167,2 246,138,266,167,0 269,139,290,167,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2005.jpg 177,99,193,129,1 197,100,214,129,1 231,124,236,128,10 217,100,235,129,9 240,100,257,129,9 197,137,209,158,1 210,137,224,158,2 226,137,240,158,0 241,137,256,158,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2006.jpg 89,106,107,139,1 110,107,132,139,2 153,134,160,141,10 134,108,158,140,0 161,109,183,141,0 112,151,127,173,1 128,151,145,175,2 159,170,165,174,10 147,152,163,175,0 166,152,182,175,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2009.jpg 145,80,166,117,1 168,80,193,117,2 217,111,224,117,10 197,80,222,116,0 226,81,251,117,0 172,130,186,155,1 189,130,208,157,2 210,129,228,156,0 231,130,250,156,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2010.jpg 156,150,187,196,6 194,151,224,195,1 181,208,200,233,6 204,209,222,232,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2011.jpg 179,162,205,193,6 209,162,229,192,1 198,200,213,218,6 215,202,228,219,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2012.jpg 49,216,68,243,0 72,218,90,243,2 94,219,111,242,4 133,218,151,242,0 155,217,170,243,5 175,218,192,243,3 236,219,253,243,0 256,219,272,244,6 275,220,294,244,0 315,218,333,244,0 335,221,353,244,8 355,219,373,244,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2013.jpg 68,195,94,229,0 98,197,124,231,2 130,199,153,231,4 183,199,208,235,0 212,202,235,236,5 241,202,265,236,3 321,205,346,239,0 348,207,371,240,6 375,208,399,241,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2014.jpg 7,197,32,234,0 36,204,61,238,6 64,209,90,243,0 119,218,146,250,0 149,222,176,256,8 176,227,204,259,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2015.jpg 21,165,70,237,0 83,168,138,237,8 145,168,198,237,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2018.jpg 67,176,138,272,0 154,177,228,273,2 249,184,316,267,4
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2020.jpg 43,211,83,262,0 93,210,128,263,5 143,209,180,263,3 282,212,321,264,0 328,213,367,265,6 373,213,415,265,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2022.jpg 138,183,165,227,1 171,182,202,226,4 209,182,241,225,4 185,239,209,274,5 215,239,241,274,4
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2023.jpg 83,153,129,218,1 138,152,189,217,4 198,151,244,216,4 208,240,244,286,4 161,236,195,288,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2024.jpg 22,136,77,224,1 88,134,157,225,4 173,136,240,225,4 122,256,169,325,5 184,256,235,327,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2025.jpg 137,163,160,197,1 164,162,188,195,4 192,162,217,194,4 175,205,195,233,5 199,205,216,232,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2029.jpg 65,142,118,231,1 127,136,195,236,2 206,133,273,232,5 257,214,274,232,10 283,132,353,233,3 196,243,241,302,3 281,289,292,302,10 245,242,293,302,0 298,243,346,301,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2030.jpg 119,198,142,235,1 146,197,173,236,2 200,229,207,235,10 179,196,205,236,5 215,196,239,234,1 211,260,218,267,10 174,240,195,268,3 197,240,216,267,0 219,240,238,267,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2031.jpg 53,92,108,188,1 120,91,191,198,2 258,184,275,202,10 278,270,289,282,10 206,96,273,201,5 293,103,361,202,4 187,210,238,279,3 241,216,292,282,0 296,221,349,284,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2033.jpg 91,139,148,216,1 161,140,216,216,1 221,136,282,218,0 195,238,234,288,4 240,237,279,290,9
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2034.jpg 41,97,118,207,1 135,96,216,210,1 222,91,314,213,0 189,242,239,307,4 254,237,307,311,9
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2035.jpg 173,191,193,223,1 199,193,216,221,1 207,228,221,248,4 223,229,238,248,9 217,193,239,222,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2036.jpg 89,99,151,192,1 163,100,232,189,1 237,96,309,193,0 208,216,251,272,4 258,214,303,273,9
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2037.jpg 133,111,175,179,1 186,105,237,181,5 285,167,296,181,10 244,107,295,181,0 302,105,356,182,0 201,198,229,239,1 238,196,267,241,5 302,233,311,243,10 275,195,311,242,0 316,196,352,242,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2038.jpg 79,99,134,190,1 146,94,208,194,5 274,179,292,195,10 299,262,312,276,10 222,95,291,196,0 300,92,370,196,0 262,212,311,273,0 317,213,365,275,0 213,210,255,274,5 163,214,205,269,1
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2040.jpg 161,148,185,189,1 191,148,217,189,4 243,181,250,189,10 222,148,250,190,9 255,149,281,190,8 199,197,215,222,1 218,195,236,224,5 253,217,260,224,10 239,196,259,224,0 261,196,282,224,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2042.jpg 158,148,180,186,1 184,148,209,187,5 235,179,243,187,10 244,213,251,220,10 214,148,240,186,0 246,148,271,186,0 230,192,250,219,0 252,193,271,219,0 210,193,227,219,5 190,194,207,218,1
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2043.jpg 124,123,157,174,1 164,122,200,175,5 237,166,247,178,10 251,216,259,223,10 208,122,244,176,0 252,121,288,176,0 261,187,288,223,0 230,187,258,222,0 202,187,225,222,5 175,189,197,219,1
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2055.jpg 183,164,218,208,2 254,197,265,208,10 226,163,261,207,0 225,221,263,268,0 268,222,306,268,0 272,165,306,206,4 184,219,222,266,7 257,257,266,268,10
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2057.jpg 183,141,220,184,2 255,174,263,183,10 226,141,260,183,0 270,143,303,181,4 188,197,221,237,7 256,230,265,240,10 227,196,262,240,0 269,196,305,239,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2058.jpg 187,185,221,235,0 246,191,274,237,5 274,190,300,235,0 301,190,327,235,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2059.jpg 201,188,238,245,2 238,195,265,244,4 266,193,294,244,6 294,194,325,245,2 326,197,353,242,7
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2060.jpg 10,193,33,233,0 202,188,227,230,2 228,195,249,229,4 249,194,271,231,6 272,193,295,230,2 296,193,318,227,7
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2061.jpg 5,220,29,258,2 30,219,53,257,7 195,215,215,251,1 215,212,240,252,8 265,216,283,251,1 284,214,304,251,8 305,215,327,249,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2063.jpg 101,189,121,221,0 135,194,150,220,5 151,194,166,219,0 167,195,183,220,0 294,192,312,220,2 313,196,328,220,4 328,196,342,221,6 343,196,359,221,2 359,196,375,220,7
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2064.jpg 77,192,97,225,0 114,195,132,225,5 132,195,150,224,0 150,195,168,225,0 293,191,314,224,2 314,194,331,224,4 331,194,348,225,6 347,194,365,225,2 365,194,382,224,7
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2065.jpg 91,183,114,210,2 117,182,140,211,0 145,184,166,210,4 93,218,114,244,7 135,240,142,246,10 135,204,141,211,10 117,218,140,246,0 144,219,167,246,0 297,182,315,210,0 327,186,342,210,5 342,185,357,210,0 357,186,373,211,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2066.jpg 138,173,162,212,1 167,171,195,214,2 201,171,231,213,2 179,223,201,252,3 206,224,228,253,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2067.jpg 200,119,226,152,2 253,145,259,152,10 260,186,266,192,10 234,121,257,150,4 264,120,287,150,4 222,162,242,193,2 244,162,264,193,0 266,162,286,193,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2069.jpg 144,141,192,201,2 237,187,250,200,10 252,258,262,270,10 203,140,243,200,5 259,142,301,194,4 185,217,219,269,2 225,217,258,270,0 264,217,298,270,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2070.jpg 172,124,195,154,2 216,148,223,154,10 224,183,230,189,10 192,163,210,188,2 200,125,220,153,5 226,125,246,154,5 212,163,227,188,0 230,162,247,190,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2072.jpg 280,178,311,218,0 318,178,345,216,2 352,173,381,213,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2074.jpg 58,154,89,197,0 98,152,128,196,7 134,150,164,196,0 206,152,236,191,4 243,150,273,190,4 281,149,311,190,4
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2075.jpg 235,154,282,221,0 300,151,347,223,3 360,147,405,219,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2076.jpg 241,171,275,217,0 284,167,320,218,3 329,165,364,214,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2077.jpg 170,139,204,190,2 212,141,245,190,8 280,183,288,191,10 261,144,286,189,1 291,143,325,191,0 216,198,241,233,2 244,198,269,233,8 291,225,298,233,10 274,199,298,233,3 302,198,326,233,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2078.jpg 173,169,198,207,2 203,169,228,208,8 254,199,260,208,10 263,232,268,239,10 238,172,259,206,1 264,170,287,207,5 207,212,225,237,2 228,212,247,237,8 251,213,268,238,3 270,212,288,239,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2079.jpg 239,172,262,209,5 268,173,293,209,4
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2080.jpg 229,178,248,208,5 252,177,272,207,4
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2081.jpg 174,170,198,211,1 206,171,233,210,1 260,203,268,212,10 238,170,266,211,9 274,170,302,212,9 206,225,223,251,1 226,224,247,253,2 268,247,274,254,10 251,225,273,253,0 275,225,298,254,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2082.jpg 135,107,168,162,1 177,108,210,161,1 245,149,255,161,10 217,106,252,162,9 260,105,296,161,9 177,180,198,214,1 203,178,228,217,2 253,208,263,217,10 234,179,261,216,0 265,180,292,217,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2084.jpg 169,202,175,210,10 174,238,180,245,10 122,173,146,207,6 151,174,172,208,5 179,176,201,210,3 126,218,140,240,1 141,217,159,243,2 161,220,179,244,0 181,221,199,245,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2085.jpg 101,167,130,210,6 138,169,163,211,5 160,204,168,213,10 174,171,200,215,3 104,225,123,252,1 125,225,147,255,2 167,251,174,257,10 150,226,172,257,0 175,227,198,258,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2087.jpg 219,154,251,199,2 259,157,290,198,4 233,211,257,244,3 261,212,287,243,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2090.jpg 152,110,184,161,2 193,108,226,161,8 263,149,271,158,10 235,107,266,158,5 279,106,310,154,4 199,165,225,198,2 228,165,254,199,8 263,164,281,196,7 284,162,309,196,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2091.jpg 128,137,164,188,1 166,135,210,192,2 217,137,256,190,1 196,203,222,239,3 224,203,252,237,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2092.jpg 144,166,175,210,1 179,163,214,211,2 220,164,254,209,1 200,220,225,251,3 227,220,251,251,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2093.jpg 140,171,179,227,1 184,169,229,229,2 238,168,277,223,1 214,240,242,276,3 247,238,276,275,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2094.jpg 134,168,163,211,1 166,165,202,213,2 207,167,240,209,1 192,221,212,251,3 217,220,239,250,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2098.jpg 145,138,174,186,1 180,136,217,188,2 248,179,257,188,10 222,137,256,188,0 261,136,298,188,0 189,198,211,226,1 215,196,239,229,2 262,222,268,229,10 243,197,268,230,0 272,197,296,230,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/21.jpg 106,176,149,238,1 154,176,195,237,0 240,225,249,237,10 203,173,245,238,6 259,174,298,237,4
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2100.jpg 205,118,225,149,7 232,118,250,147,7 213,162,229,185,3 230,161,248,185,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2101.jpg 204,95,230,137,7 242,95,265,136,7 215,159,237,192,3 239,158,263,190,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2102.jpg 208,141,224,166,7 230,141,245,167,7 213,178,229,199,3 230,178,244,199,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2103.jpg 254,177,286,219,2 319,207,327,217,10 295,176,327,214,7 338,177,366,216,1 253,229,286,270,5 318,260,326,269,10 290,228,325,268,0 330,229,365,271,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2104.jpg 122,195,159,239,2 194,227,204,238,10 195,285,204,294,10 167,194,200,233,7 214,194,246,234,1 126,250,158,293,5 166,249,202,294,0 210,250,245,293,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2106.jpg 112,181,140,225,2 142,181,168,224,7 194,189,216,223,1 216,186,237,225,5 239,185,263,225,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2107.jpg 172,207,199,253,1 199,211,224,254,4 225,211,252,257,6 252,212,281,257,2 283,213,309,256,7
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2108.jpg 149,198,173,241,1 173,202,198,242,4 199,202,222,244,6 224,203,251,247,2 252,204,278,246,7
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2111.jpg 251,103,289,147,2 323,137,331,149,10 322,196,333,206,10 297,103,330,144,7 336,104,371,148,0 252,159,286,204,5 293,161,330,206,0 336,163,372,206,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2113.jpg 176,222,208,267,2 229,226,255,266,2 257,225,282,266,0 283,225,308,265,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2114.jpg 126,146,159,198,0 161,145,192,197,0 194,146,223,196,0 223,147,252,197,2 254,148,281,196,5 281,148,311,196,0 312,149,340,196,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2115.jpg 114,268,144,319,0 146,268,175,318,0 178,267,208,316,0 294,268,321,313,0 264,268,294,314,0 208,270,236,316,2 238,269,264,316,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2117.jpg 121,227,150,275,2 153,227,180,276,5 207,233,234,275,5 234,232,260,275,5 262,232,286,274,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2118.jpg 164,139,197,190,2 199,138,228,191,5 256,145,283,191,5 285,144,311,192,5 312,144,340,192,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2119.jpg 190,273,223,325,2 226,272,255,325,5 283,278,309,323,5 312,275,337,322,5 338,275,365,320,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2120.jpg 108,258,152,327,2 183,265,224,328,2 225,263,263,331,0 262,263,301,332,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2121.jpg 172,157,205,207,2 230,162,259,207,2 259,163,288,208,0 287,163,316,208,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2122.jpg 176,170,204,216,5 235,209,242,217,10 210,171,241,217,9 245,173,277,218,6 197,228,221,262,6 224,230,248,263,0 251,232,276,264,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2123.jpg 155,88,185,142,5 223,133,233,145,10 196,89,231,144,9 237,89,273,146,6 180,159,209,198,6 232,191,241,200,10 213,161,240,199,0 244,163,271,201,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2126.jpg 95,109,136,175,0 152,110,192,175,5 244,167,256,179,10 207,112,253,177,0 267,112,309,176,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2128.jpg 103,258,144,316,0 161,255,202,317,5 253,306,264,318,10 216,256,260,315,0 276,255,314,314,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2129.jpg 147,76,186,133,0 278,124,291,138,10 200,76,233,133,5 248,76,286,135,0 300,76,336,134,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2130.jpg 70,218,113,283,0 131,216,173,286,5 226,274,240,289,10 188,218,234,285,0 250,217,294,287,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2131.jpg 80,95,103,138,7 109,100,133,140,6 93,155,112,187,3 115,156,135,185,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2132.jpg 60,79,91,135,7 104,79,142,136,6 81,167,108,213,3 115,168,146,212,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2133.jpg 126,195,162,255,7 175,196,218,257,6 146,292,179,342,3 184,294,222,342,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2134.jpg 254,184,289,240,7 298,183,341,245,6 268,276,300,325,3 305,277,340,324,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2135.jpg 220,92,257,147,7 269,91,310,150,6 239,183,271,229,3 275,183,308,229,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2136.jpg 157,162,177,198,7 185,164,212,200,0 166,201,186,227,7 188,203,210,229,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2138.jpg 222,140,252,191,7 261,142,300,194,0 234,197,260,232,7 262,199,294,234,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2139.jpg 149,159,184,221,7 198,159,243,221,0 169,226,198,268,7 204,228,241,268,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2140.jpg 98,111,125,149,6 130,113,155,149,6 151,141,160,151,10 167,114,189,149,7
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2141.jpg 139,227,166,262,6 193,253,200,261,10 173,226,198,260,6 209,226,231,259,7
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2143.jpg 124,201,176,271,6 230,258,246,274,10 191,203,241,269,6 269,207,312,269,7
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2144.jpg 50,151,86,209,8 97,154,134,211,0 79,205,89,219,10
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2146.jpg 213,178,228,190,10 234,122,276,183,0 187,121,230,181,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2147.jpg 189,260,205,274,10 211,194,262,266,0 155,194,207,266,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2149.jpg 166,172,190,212,3 195,174,220,209,4 171,222,192,254,4 195,222,219,256,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2150.jpg 258,105,291,160,3 300,109,332,157,4 261,175,290,215,4 293,173,323,218,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2151.jpg 90,101,122,156,3 130,104,163,152,4 100,175,126,212,4 134,172,163,217,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2152.jpg 213,176,254,247,3 266,182,310,240,4 215,265,255,316,4 257,261,304,320,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2153.jpg 233,135,258,178,3 264,137,290,179,4 235,193,257,224,4 260,191,285,228,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2154.jpg 107,145,147,198,8 177,189,187,199,10 151,146,187,200,3 190,147,228,201,3 147,206,169,239,3 192,234,198,241,10 172,207,196,239,0 199,207,225,240,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2155.jpg 73,80,127,155,8 173,143,184,156,10 133,81,185,156,3 189,84,240,157,3 129,166,158,213,3 189,205,198,214,10 162,168,197,213,0 200,170,234,215,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2156.jpg 182,97,253,189,8 303,175,320,190,10 319,250,330,260,10 257,101,322,190,3 324,103,392,192,3 246,203,285,259,3 287,205,331,260,0 334,205,377,261,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2157.jpg 67,77,128,162,8 182,148,192,164,10 136,80,195,166,3 200,82,259,167,3 131,176,165,230,3 199,219,210,231,10 170,179,209,229,0 212,179,251,231,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2158.jpg 93,203,152,279,8 201,266,214,281,10 159,205,213,281,3 218,207,274,282,3 232,291,267,341,0 189,292,225,340,0 219,330,229,341,10 154,292,185,341,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2159.jpg 56,119,95,182,1 112,119,153,185,2 172,118,212,186,2 232,120,274,187,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2161.jpg 55,108,96,166,1 110,105,151,171,2 169,104,211,170,2 231,104,273,171,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2162.jpg 104,161,152,226,0 168,160,212,227,8 266,216,278,229,10 229,160,274,225,0 297,161,337,224,1
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2163.jpg 105,233,149,298,0 168,233,214,298,8 270,289,281,302,10 231,233,277,298,0 300,234,342,298,1
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2164.jpg 82,95,136,176,0 155,95,205,174,8 267,163,281,177,10 224,97,277,173,0 301,97,347,173,1
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/2165.jpg 155,259,197,317,0 212,259,250,317,8 294,307,303,318,10 261,258,303,315,0 319,260,354,317,1
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/22.jpg 237,224,245,233,10 122,179,157,234,1 162,179,199,234,0 205,180,243,234,8 249,179,285,234,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/23.jpg 129,184,164,232,1 172,182,203,232,1 207,182,241,233,0 249,182,281,231,4 235,223,244,232,10
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/24.jpg 239,214,250,226,10 116,167,155,225,1 164,168,202,226,1 208,167,247,225,2 256,167,295,224,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/26.jpg 85,155,135,230,1 149,155,198,228,1 206,153,254,228,6 250,215,260,228,10 268,153,319,228,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/27.jpg 104,168,146,228,1 152,167,194,230,2 205,168,243,229,1 236,218,245,228,10 250,168,296,230,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/28.jpg 76,154,132,229,1 139,153,192,231,2 206,153,253,231,3 246,216,257,229,10 269,153,317,229,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/3.jpg 257,221,266,229,10 146,179,184,229,0 192,179,221,230,5 230,179,264,230,9 272,180,304,230,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/30.jpg 118,167,152,218,1 156,168,191,219,2 226,209,233,219,10 196,168,231,218,8 237,168,272,219,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/31.jpg 227,210,237,220,10 123,171,158,220,1 165,171,195,220,3 202,170,235,220,2 241,170,274,220,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/33.jpg 109,154,153,213,1 161,151,201,216,3 210,153,249,212,4 257,151,302,213,8 243,203,254,215,10
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/35.jpg 123,169,159,223,1 165,169,202,223,4 208,169,246,224,0 239,214,247,224,10 256,169,292,224,4
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/38.jpg 129,176,160,227,1 167,176,196,228,5 210,176,240,226,1 234,218,241,227,10 245,176,280,226,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/40.jpg 80,182,121,240,1 128,182,163,240,5 176,183,212,240,7 205,231,213,241,10 222,183,259,239,4
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/42.jpg 103,89,148,162,1 156,89,207,162,6 217,88,263,161,2 254,146,269,162,10 273,86,325,160,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/43.jpg 128,194,166,250,1 172,193,208,250,6 221,193,253,249,5 251,239,260,249,10 264,193,302,249,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/44.jpg 129,240,166,296,1 171,240,210,296,6 225,238,257,297,7 252,285,260,297,10 265,238,306,297,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/45.jpg 196,242,229,299,1 235,240,275,300,6 317,287,326,300,10 285,239,323,299,9 331,240,373,299,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/47.jpg 66,93,108,156,1 120,93,158,156,7 166,94,207,156,3 200,146,211,159,10 216,93,256,158,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/48.jpg 66,230,106,288,1 120,229,155,289,7 196,277,206,288,10 161,230,201,289,6 214,228,252,288,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/49.jpg 107,171,147,235,1 161,172,200,236,7 244,224,253,235,10 206,172,251,235,8 260,171,305,236,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/5.jpg 255,225,265,236,10 110,169,159,236,0 166,171,209,236,6 216,171,259,237,6 269,172,315,236,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/50.jpg 122,91,171,165,1 176,90,226,165,8 275,150,286,163,10 235,90,284,165,0 293,91,344,165,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/52.jpg 41,181,83,243,1 87,181,130,242,8 141,181,181,241,4 174,230,186,242,10 187,181,232,241,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/54.jpg 64,245,104,305,1 112,245,149,305,9 158,245,198,305,2 209,246,247,302,4 191,292,201,306,10
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/55.jpg 154,131,192,191,1 198,130,238,190,9 253,130,286,188,7 279,178,291,190,10 296,129,335,188,4
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/56.jpg 82,108,124,167,2 129,104,171,167,0 186,106,219,166,1 212,157,222,166,10 230,107,270,165,1
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/57.jpg 71,230,118,295,2 125,231,171,295,0 216,283,224,293,10 230,230,277,296,8 177,230,219,295,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/59.jpg 152,170,194,232,2 211,170,246,233,1 288,222,298,231,10 257,170,295,233,4 304,170,346,231,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/6.jpg 141,166,176,214,0 188,166,214,215,7 218,167,251,215,0 245,205,252,215,10 257,168,289,215,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/60.jpg 134,128,176,193,2 192,130,230,190,1 241,128,276,192,5 273,181,283,192,10 293,128,331,191,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/62.jpg 28,48,71,116,2 79,50,124,115,2 133,50,171,112,1 165,102,175,114,10 181,50,221,114,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/63.jpg 61,119,106,182,2 112,119,154,181,2 167,119,203,181,3 197,169,206,181,10 211,120,252,181,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/64.jpg 159,146,206,210,2 215,146,257,207,2 267,146,303,209,5 298,197,308,208,10 313,144,357,209,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/65.jpg 160,234,203,293,2 215,235,251,295,3 259,234,298,292,2 290,280,301,293,10 306,234,346,293,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/66.jpg 125,195,166,256,2 179,196,214,255,3 226,196,262,256,4 256,243,266,256,10 271,195,310,254,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/67.jpg 96,159,138,222,2 149,161,186,220,3 229,207,238,221,10 194,160,234,221,6 247,159,281,220,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/68.jpg 70,125,113,186,2 124,126,160,185,3 203,173,212,185,10 167,124,210,186,8 218,124,258,185,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/7.jpg 242,225,254,236,10 120,178,160,237,0 178,178,206,236,7 211,180,251,235,2 258,180,294,235,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/70.jpg 118,76,157,131,2 167,76,204,129,4 211,76,245,130,9 239,120,249,131,10 253,74,286,131,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/72.jpg 78,239,115,288,2 123,238,152,288,5 163,239,195,288,9 189,279,196,289,10 211,239,237,287,7
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/73.jpg 126,247,162,296,2 166,246,198,295,6 235,287,242,296,10 211,246,241,296,3 248,247,281,297,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/74.jpg 161,242,197,295,2 203,244,233,293,6 272,284,279,293,10 243,243,278,294,8 287,244,319,293,9
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/75.jpg 155,156,189,205,2 202,157,229,205,7 258,198,266,205,10 236,159,266,207,3 272,159,303,208,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/76.jpg 110,66,148,121,2 158,65,192,121,7 229,110,238,120,10 198,63,234,120,6 242,65,278,121,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/78.jpg 126,196,158,245,3 168,198,197,245,1 227,236,235,245,10 208,198,234,246,1 237,199,270,244,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/8.jpg 128,173,163,224,0 235,213,244,224,10 178,174,204,224,7 211,173,238,223,5 251,173,282,224,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/80.jpg 180,201,211,252,3 223,202,253,251,1 258,202,292,251,8 286,242,294,251,10 301,201,333,250,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/81.jpg 73,184,105,235,3 111,184,147,234,2 180,224,190,235,10 153,184,187,235,2 193,184,229,235,8
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/82.jpg 87,60,118,111,3 126,62,158,111,2 193,103,202,112,10 165,60,196,112,6 206,62,238,112,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/83.jpg 286,230,295,239,10 178,189,210,241,3 220,188,252,241,3 258,188,293,241,2 302,188,335,240,9
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/84.jpg 80,253,110,303,3 119,254,150,303,3 184,291,192,301,10 164,253,191,302,7 196,253,227,300,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/85.jpg 147,237,170,276,3 176,237,203,275,8 229,268,236,277,10 207,237,232,275,6 238,237,265,275,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/86.jpg 159,143,187,188,3 193,142,223,190,9 254,179,262,189,10 228,145,259,189,0 268,144,293,190,5
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/87.jpg 88,273,117,316,3 125,273,153,316,9 181,307,187,314,10 194,272,221,316,3 160,273,187,316,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/88.jpg 170,113,201,162,3 209,113,239,162,9 271,152,280,162,10 245,112,279,163,8 283,112,318,163,0
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/89.jpg 175,290,206,339,4 210,292,243,338,0 273,326,281,337,10 248,292,280,337,0 284,292,315,336,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/9.jpg 129,181,161,224,0 171,180,194,224,7 199,181,227,223,8 235,181,263,223,4 223,214,230,225,10
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/91.jpg 30,112,67,162,4 70,112,108,163,0 140,151,149,163,10 116,112,146,164,3 151,113,183,163,6
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/92.jpg 77,153,113,202,4 117,152,149,202,0 157,152,185,199,5 183,190,191,199,10 194,152,224,198,2
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/97.jpg 209,175,217,186,10 116,141,146,185,4 153,142,181,185,4 185,142,212,187,6 223,142,249,185,3
+H:\repository\MyRepository\Algorithm\meter-yolo\VOCdevkit/VOC2007/JPEGImages/98.jpg 219,268,227,276,10 128,232,156,277,4 162,232,191,276,4 200,233,225,278,7 230,233,260,277,8
